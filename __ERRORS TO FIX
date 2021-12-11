@@ -1,0 +1,21 @@
+Login.js
+- Error: Asset not found: /Users/amuhome/Nightclub/assets/Liv%20Miami.png for platform: ios
+Homepage.js
+- Invariant Violation: requireNativeComponent: "RNSScreenStackHeaderConfig" was not found in the UIManager.
+InsideApp.js
+- Text strings must be rendered within a <Text> component
+ProfileSetUp.js
+- TypeError: undefined is not an object (evaluating '_ExponentImagePicker.default.requestMediaLibaryPermissionsAsync')
+- Error: Asset not found: /Users/amuhome/Nightclub/assets/Marquee%20New%20York.png for platform: ios
+requestMediaLibraryPermissionsAsync$@http://localhost:8081/index.bundle?platform=ios&dev=true&minify=false&modulesOnly=false&runModule=true&app=org.reactjs.native.example.Nightclub:115232:68
+FailedSignIn.js
+- invalid YGjustify 'stretch'
+SignUp.js
+- Warped Screen
+ProfileSetUp
+- invalid YGjustify 'stretch'
+
+
+ALL CLEAR:
+  ShowProfile.js
+
