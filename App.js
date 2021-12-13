@@ -17,6 +17,8 @@ import ShowProfile from './ShowProfile'
 
 import FailedSignIn from './FailedSignIn';
 
+// This is a comment to test version control
+
 export default function App() {
   const data = {firstName: "First name",lastName: "Last Name", email: "email@email.com", instagram: "insta", profilePic:""}
 
