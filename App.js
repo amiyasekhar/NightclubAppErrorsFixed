@@ -17,6 +17,7 @@ import ShowProfile from './ShowProfile'
 
 import FailedSignIn from './FailedSignIn';
 
+// This is a comment to test version control
 // I am making a new change here on the master branch though. Will the pull request be able
 // merge with this I am not so sure. 
 
