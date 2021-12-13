@@ -17,6 +17,9 @@ import ShowProfile from './ShowProfile'
 
 import FailedSignIn from './FailedSignIn';
 
+// I am making a new change here on the master branch though. Will the pull request be able
+// merge with this I am not so sure. 
+
 export default function App() {
   const data = {firstName: "First name",lastName: "Last Name", email: "email@email.com", instagram: "insta", profilePic:""}
 
